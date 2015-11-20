@@ -57,3 +57,8 @@ Sample usage
 <code>&#32;&#32;&#32;&#32;p.push(std::move(second));  // functor, move ctor</code>
 
 <code>}</code>
+
+参考文档：
+
+* [C++11中可变参数个数的模板（variadic template）](http://stackoverflow.com/questions/15752659/thread-pooling-in-c11 "markdown")
+* [Thread pooling in C++11](http://stackoverflow.com/questions/15752659/thread-pooling-in-c11 "markdown")
