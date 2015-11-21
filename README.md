@@ -60,5 +60,5 @@ Sample usage
 
 参考文档：
 
-* [C++11中可变参数个数的模板（variadic template）](http://stackoverflow.com/questions/15752659/thread-pooling-in-c11 "markdown")
+* [C++11中可变参数个数的模板（variadic template）](http://m.blog.csdn.net/blog/herojia_1/10328791 "markdown")
 * [Thread pooling in C++11](http://stackoverflow.com/questions/15752659/thread-pooling-in-c11 "markdown")
